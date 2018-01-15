@@ -1,0 +1,4 @@
+name: VultrCompany
+version: 0.1
+main: a\VultrCompany
+api: [3.0.0-ALPHA10]
