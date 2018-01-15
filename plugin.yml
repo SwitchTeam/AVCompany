@@ -1,4 +1,4 @@
 name: VultrCompany
 version: 0.1
-main: AVENDAS\AVCompany
+main: AVENDA\AVCompany
 api: [3.0.0-ALPHA10]
